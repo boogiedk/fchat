@@ -1,2 +1,2 @@
 # fchat
-A simple browser chat written on F#.
+A simple browser chat written in F#.
